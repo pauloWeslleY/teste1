@@ -9,7 +9,7 @@ idade = ano_atual - nascimento if aniversario_ano_atual else(ano_atual - 1 - nas
 def function(parameter_list);
    pass
 
-lista = [['Pro', 'fes', 'sor'], 'da', 'byLearn', ':)']
+lista = [['Pro', 'fes', 'sor'], 'da', 'ByLearn', ':)']
 
 if idade >= 18:
    dirigir = True
