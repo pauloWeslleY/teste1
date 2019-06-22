@@ -6,5 +6,3 @@ class Code {
    }
 }
 
-console.log(Code)
-
